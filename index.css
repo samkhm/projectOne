@@ -8,7 +8,7 @@
  }
 
  .slider {
-     background-repeat: repeat;
+     background-repeat: no-repeat;
      background-size: cover;
      background-position: center;
      width: 100%;
@@ -58,7 +58,7 @@
 
  @keyframes slide {
      0% {
-         background-image: url('https://i.ytimg.com/vi/ZSQljSZpIFs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDdmy8ygqV_-ATN9-wK4luUE2M-gA');
+         background-image: url('htttps://i.ytimg.com/vi/ZSQljSZpIFs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDdmy8ygqV_-ATN9-wK4luUE2M-gA');
 
      }
 
