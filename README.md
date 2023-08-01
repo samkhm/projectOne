@@ -1,4 +1,4 @@
-# Favourite Band Page
+# Simple HTML Web Page for My Favourite Band
 This project is mainly for a favourite band and what the band constitutes together with the memmbers and there songs.
 ## Author
 @samkhm
