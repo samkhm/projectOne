@@ -4,7 +4,7 @@ This project is mainly for a favourite band and what the band constitutes togeth
 @samkhm
 
 ## Links
-[@samkhm](https://github.com/samkhm/projectOne.git)
+[Favourite Band Page](https://github.com/samkhm/projectOne.git)
 @samkhm
 ## Set Up Instructions
 Step 1: Authenticate Yourself and Your Machine.<br>
